@@ -1,0 +1,38 @@
+body{
+  background-color: #2C2F33;
+}
+#wrapper{
+}
+#center-main{
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: arial;
+  background-color: #23272A;
+  color: white;
+}
+#left-main{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  font-family: arial;
+  background-color: #23272A;
+  color: white;
+}
+#quote{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #2C2F33;
+  color: white;
+}
+footer{
+  text-align: right;
+  font-family: arial;
+  color: white;
+}

@@ -1,7 +1,14 @@
 body{
   background-color: #2C2F33;
 }
-#wrapper{
+img{
+  max-width: 100%;
+  height: auto;
+}
+footer{
+  text-align: right;
+  font-family: arial;
+  color: white;
 }
 #center-main{
   padding-left: 25%;
@@ -31,8 +38,7 @@ body{
   background-color: #2C2F33;
   color: white;
 }
-footer{
-  text-align: right;
-  font-family: arial;
-  color: white;
+#ts-icon{
+  max-width: 200px;
+  height: auto;
 }
